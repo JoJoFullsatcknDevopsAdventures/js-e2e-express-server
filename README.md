@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/devoteam-lu/Devoteam%20-%20Ansible-O365/_apis/build/status/JoJoFullsatcknDevopsAdventures.js-e2e-express-server?branchName=main)](https://dev.azure.com/devoteam-lu/Devoteam%20-%20Ansible-O365/_build/latest?definitionId=324&branchName=main)
 ---
 page_type: sample
 languages:
